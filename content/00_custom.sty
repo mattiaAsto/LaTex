@@ -1,0 +1,108 @@
+
+%requiring packages
+\RequirePackage{graphicx}
+\RequirePackage{pdfpages}
+\RequirePackage{hyperref}
+\RequirePackage[normalem]{ulem} 
+\RequirePackage{xcolor}
+
+\RequirePackage[paper=a4paper, margin=1in]{geometry}%smaller margins
+\RequirePackage{fancyhdr}
+\RequirePackage{lastpage}
+
+
+\RequirePackage[skip=4pt plus0pt, indent=0pt]{parskip}
+\RequirePackage{float}
+\RequirePackage{wrapfig}
+\RequirePackage{titlesec}
+\RequirePackage{array}
+\RequirePackage{tabularx}
+\RequirePackage{multirow}
+
+
+%paths and setups
+\graphicspath{ {./pics/} }
+
+
+%new comands
+\newcommand\riga{
+
+}
+\newcommand\reg{\textsuperscript{\textregistered}}
+
+
+%Document variables
+\def\vTitle{Title Here}
+\def\vDescription{Description here}
+\def\vAuthor{Author}
+\def\vInstitute{Institute}
+\def\vYear{Year}
+
+\def\vAbstractName{Abstract name}
+\def\vContactsName{Contacts name}
+\def\vSummaryName{Summary name}
+
+\def\vListOfFiguresName{List of figures name}
+\def\vListOfTablesName{List of tables name}
+\def\vGlossaryName{Glossary Name}
+\def\vListOfAttachmentsName{Attachments name}
+
+\def\vPage{Page \thepage \hspace{0.5pt} de \pageref{LastPage}} %Page numbering style
+\def\vFigureCaption{Figure} % to change: Figuree: An example of figure caption
+
+
+% Other variables
+\def\di{Ø}
+
+    
+%Command renewing
+\renewcommand{\labelitemi}{\normalfont -}
+\renewcommand*\contentsname{\vSummaryName}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\renewcommand{\listfigurename}{\vListOfFiguresName}
+\renewcommand{\listtablename}{\vListOfTablesName}
+\renewcommand{\figurename}{\vFigureCaption}
+
+\titleclass{\subsubsubsection}{straight}[\subsection]
+
+\newcounter{subsubsubsection}[subsubsection]
+\renewcommand\thesubsubsubsection{\thesubsubsection.\arabic{subsubsubsection}}
+\renewcommand\theparagraph{\thesubsubsubsection.\arabic{paragraph}} % optional; useful if paragraphs are to be numbered
+
+
+%imported paragraph, subparagraph, subsubusbsection settings
+\titleformat{\subsubsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsubsection}{1em}{}
+\titlespacing*{\subsubsubsection}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{5}{\z@}%
+  {3.25ex \@plus1ex \@minus.2ex}%
+  {-1em}%
+  {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{6}{\parindent}%
+  {3.25ex \@plus1ex \@minus .2ex}%
+  {-1em}%
+  {\normalfont\normalsize\bfseries}}
+\def\toclevel@subsubsubsection{4}
+\def\toclevel@paragraph{5}
+\def\toclevel@paragraph{6}
+\def\l@subsubsubsection{\@dottedtocline{4}{7em}{4em}}
+\def\l@paragraph{\@dottedtocline{5}{10em}{5em}}
+\def\l@subparagraph{\@dottedtocline{6}{14em}{6em}}
+\makeatother
+
+\makeatletter
+\newcommand{\listofattachments}{%
+  \section*{\vListOfAttachmentsName}%
+  \@starttoc{loa}%
+}
+\let\l@attachment\l@figure
+\makeatother
+
+
+
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
