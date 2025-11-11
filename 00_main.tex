@@ -3,7 +3,7 @@
 \usepackage{content/00_custom}
 \usepackage{hyperref}
 
-\definecolor{urlcolor}{RGB}{204, 0, 0}
+\definecolor{urlcolor}{RGB}{0, 0, 0}
 \definecolor{linkcolor}{RGB}{0, 0, 0}
 \definecolor{citecolor}{RGB}{41, 41, 61}
 
@@ -28,75 +28,22 @@
 
 \begin{document}
 
-\pagestyle{fancy} %titlepage without header and footing
-\fancyhf{}
-
-\begin{center}
-    \vspace{1cm}
-    \textbf{\huge{\vTitle}}
-    
-    \vspace{0.5cm}
-    \textit{\vDescription}
-
-    \vspace{1.5cm}
-    \vAuthor \\
-    \vspace{0.5cm}
-    \vInstitute \\
-    \vspace{0.5cm}
-    \vYear
-    \vspace{2cm}
-    \begin{figure}[H]
-        \centering
-        \includegraphics[width=12cm]{pictures/02_circuit.png} %change the titlepicture
-    \end{figure}
-\end{center}
+\input{content/title.tex}
 \newpage
-
-\pagenumbering{Roman} %Abstract page, centered and roman page numbering
-\fancyfoot[C]{\thepage}
-
-\fancyhead[R]{
-    \raisebox{-0.4cm}[0pt][0pt]{
-        \includegraphics[height=1.2cm]{pictures/HEI-LOGO.png}
-  }
-}
-
-\section*{\vAbstractName}
-
-\vspace{5cm}
-\section*{\vContactsName}
-\textbf{Mattia Astori}
-
-E-Mail: mattia.astori@hes-so.ch
-
-Tel. privé: +41 79 790 81 64
-\\
-
-%\textbf{HEI Sion}
+\input{content/validation.tex}
 \newpage
-
-\pagenumbering{arabic} %start arab page numbering, from 0, bottom right
-\setcounter{page}{1}
-
-\fancyhead[L]{\vDescription}
-%\fancyhead[R]{\includegraphics[height=\headheight]{pictures/HEI-LOGO.png}}
-
-\fancyfoot[R]{\vPage}
-\fancyfoot[L]{\vAuthor}
-\fancyfoot[C]{\vYear}
-
-\tableofcontents
+\input{content/abstract.tex}
+\newpage
+\input{content/TOC.tex}
 \newpage
 
 \input{01_Intro.tex}
 \newpage
 
 
-\printbibliography
-
-\clearpage
-\printglossary[title=Special Terms, toctitle=\vGlossaryName]
-\printglossary[type=\acronymtype]
+%\printbibliography
+%\printglossary[title=Special Terms, toctitle=\vGlossaryName]
+%\printglossary[type=\acronymtype]
 
 
 \includepdf[
@@ -109,10 +56,15 @@ Tel. privé: +41 79 790 81 64
     }
   ]{pdfs/sintable.pdf}
 
+\phantomsection
 \listoffigures
 \addcontentsline{toc}{section}{\vListOfFiguresName}
+
+\phantomsection
 \listoftables
 \addcontentsline{toc}{section}{\vListOfTablesName}
+
+\phantomsection
 \listofattachments
 \addcontentsline{toc}{section}{\vListOfAttachmentsName}
 \end{document}
