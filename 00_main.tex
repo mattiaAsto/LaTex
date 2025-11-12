@@ -1,6 +1,11 @@
+% This is the main file, it imports all the .sty settings, variables, packages, commands, ecc...
+% To add new sections use input{}
+
+
 \documentclass{article}
 
 \usepackage{content/00_custom}
+\usepackage{content/setup}
 \usepackage{hyperref}
 
 \definecolor{urlcolor}{RGB}{0, 0, 0}
@@ -14,12 +19,12 @@
   linkcolor  = linkcolor, %Colour of internal links
   citecolor  = citecolor %Colour of citations
 }  
-  
 
-\usepackage[backend=biber]{biblatex}
+
+% \usepackage[backend=biber]{biblatex}
 \addbibresource{content/myBib.bib}
 
-\usepackage[acronym, toc]{glossaries}
+% \usepackage[acronym, toc]{glossaries}
 \makeglossaries
 
 \input{content/acronyms.tex}
@@ -32,20 +37,64 @@
 \newpage
 \input{content/validation.tex}
 \newpage
+
+\pagestyle{fancy}
+\pagenumbering{Roman}
+\fancyhead[L]{\vDescription \space - \vAbstractName}
+\fancyhead[R]{
+    \raisebox{-0.4cm}[0pt][0pt]{
+        \includegraphics[height=1.2cm]{pictures/HEI-LOGO.png}
+  }
+}
+\fancyfoot[C]{\thepage}
+
 \input{content/abstract.tex}
 \newpage
-\input{content/TOC.tex}
-\newpage
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\fancyhead[L]{\vDescription \space - \vSummaryName}
+\fancyfoot[R]{\vPage}
+\fancyfoot[L]{\vAuthor}
+\fancyfoot[C]{\vYear}
+
+\tableofcontents
+\thispagestyle{fancy}
+\clearpage
+
+\fancyhead[L]{\vDescription \space - \sectiontitle}
 
 \input{01_Intro.tex}
 \newpage
 
+\clearpage
+\renewcommand{\sectiontitle}{Bibliography}
+\phantomsection
+\addcontentsline{toc}{section}{\vBibName}
+\printbibliography[title=\vBibName]
+\printglossary[title=\vGlossaryName]
+\printglossary[type=\acronymtype, title=\vAcrName]
 
-%\printbibliography
-%\printglossary[title=Special Terms, toctitle=\vGlossaryName]
-%\printglossary[type=\acronymtype]
 
+\renewcommand{\sectiontitle}{Tables and Attachments}
+\phantomsection
+\thispagestyle{fancy}
+\listoffigures
+\addcontentsline{toc}{section}{\vListOfFiguresName}
 
+\phantomsection
+\thispagestyle{fancy}
+\listoftables
+\addcontentsline{toc}{section}{\vListOfTablesName}
+
+\phantomsection
+\thispagestyle{fancy}
+\listofattachments
+\addcontentsline{toc}{section}{\vListOfAttachmentsName}
+\clearpage
+
+\renewcommand{\sectiontitle}{Excel full table}
 \includepdf[
   pages=-,
   scale=.9,
@@ -55,16 +104,18 @@
     \addcontentsline{loa}{attachment}{\protect\numberline{1}{Excel full table}}
     }
   ]{pdfs/sintable.pdf}
+\clearpage
 
-\phantomsection
-\listoffigures
-\addcontentsline{toc}{section}{\vListOfFiguresName}
+\renewcommand{\sectiontitle}{Excel full table 2}
+\includepdf[
+pages=-,
+scale=.9,
+pagecommand={
+  \label{sintable2}
+  \phantomsection
+  \addcontentsline{loa}{attachment}{\protect\numberline{2}{Excel full table number 2}}
+  }
+]{pdfs/sintable.pdf}
+\clearpage
 
-\phantomsection
-\listoftables
-\addcontentsline{toc}{section}{\vListOfTablesName}
-
-\phantomsection
-\listofattachments
-\addcontentsline{toc}{section}{\vListOfAttachmentsName}
 \end{document}

@@ -16,5 +16,33 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{provaref2}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c53b8b452793db0b50d495477be03412}{%
+           family={Astori},
+           familyi={A\bibinitperiod},
+           given={Mattia\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c53b8b452793db0b50d495477be03412}
+      \strng{fullhash}{c53b8b452793db0b50d495477be03412}
+      \strng{fullhashraw}{c53b8b452793db0b50d495477be03412}
+      \strng{bibnamehash}{c53b8b452793db0b50d495477be03412}
+      \strng{authorbibnamehash}{c53b8b452793db0b50d495477be03412}
+      \strng{authornamehash}{c53b8b452793db0b50d495477be03412}
+      \strng{authorfullhash}{c53b8b452793db0b50d495477be03412}
+      \strng{authorfullhashraw}{c53b8b452793db0b50d495477be03412}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Just a test for bibliography}
+      \field{year}{2018}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

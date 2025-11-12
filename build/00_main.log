@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.6)  11 NOV 2025 18:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.6)  12 NOV 2025 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -335,61 +335,57 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@cntb=\count311
 \multirow@dima=\skip106
 \bigstrutjot=\dimen187
-)
-\c@subsubsubsection=\count312
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 16.
- (c:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
+) (c:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
  (c:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count313
+\lrq@indent=\count312
  (c:/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count314
-\c@listtotal=\count315
-\c@listcount=\count316
-\c@liststart=\count317
-\c@liststop=\count318
-\c@citecount=\count319
-\c@citetotal=\count320
-\c@multicitecount=\count321
-\c@multicitetotal=\count322
-\c@instcount=\count323
-\c@maxnames=\count324
-\c@minnames=\count325
-\c@maxitems=\count326
-\c@minitems=\count327
-\c@citecounter=\count328
-\c@maxcitecounter=\count329
-\c@savedcitecounter=\count330
-\c@uniquelist=\count331
-\c@uniquename=\count332
-\c@refsection=\count333
-\c@refsegment=\count334
-\c@maxextratitle=\count335
-\c@maxextratitleyear=\count336
-\c@maxextraname=\count337
-\c@maxextradate=\count338
-\c@maxextraalpha=\count339
-\c@abbrvpenalty=\count340
-\c@highnamepenalty=\count341
-\c@lownamepenalty=\count342
-\c@maxparens=\count343
-\c@parenlevel=\count344
-\blx@tempcnta=\count345
-\blx@tempcntb=\count346
-\blx@tempcntc=\count347
-\c@blx@maxsection=\count348
-\blx@maxsegment@0=\count349
-\blx@notetype=\count350
-\blx@parenlevel@text=\count351
-\blx@parenlevel@foot=\count352
-\blx@sectionciteorder@0=\count353
-\blx@sectionciteorderinternal@0=\count354
-\blx@entrysetcounter=\count355
-\blx@biblioinstance=\count356
+\c@tabx@nest=\count313
+\c@listtotal=\count314
+\c@listcount=\count315
+\c@liststart=\count316
+\c@liststop=\count317
+\c@citecount=\count318
+\c@citetotal=\count319
+\c@multicitecount=\count320
+\c@multicitetotal=\count321
+\c@instcount=\count322
+\c@maxnames=\count323
+\c@minnames=\count324
+\c@maxitems=\count325
+\c@minitems=\count326
+\c@citecounter=\count327
+\c@maxcitecounter=\count328
+\c@savedcitecounter=\count329
+\c@uniquelist=\count330
+\c@uniquename=\count331
+\c@refsection=\count332
+\c@refsegment=\count333
+\c@maxextratitle=\count334
+\c@maxextratitleyear=\count335
+\c@maxextraname=\count336
+\c@maxextradate=\count337
+\c@maxextraalpha=\count338
+\c@abbrvpenalty=\count339
+\c@highnamepenalty=\count340
+\c@lownamepenalty=\count341
+\c@maxparens=\count342
+\c@parenlevel=\count343
+\blx@tempcnta=\count344
+\blx@tempcntb=\count345
+\blx@tempcntc=\count346
+\c@blx@maxsection=\count347
+\blx@maxsegment@0=\count348
+\blx@notetype=\count349
+\blx@parenlevel@text=\count350
+\blx@parenlevel@foot=\count351
+\blx@sectionciteorder@0=\count352
+\blx@sectionciteorderinternal@0=\count353
+\blx@entrysetcounter=\count354
+\blx@biblioinstance=\count355
 \labelnumberwidth=\skip107
 \labelalphawidth=\skip108
 \biblabelsep=\skip109
@@ -401,9 +397,9 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language90
-\c@mincomprange=\count357
-\c@maxcomprange=\count358
-\c@mincompwidth=\count359
+\c@mincomprange=\count356
+\c@maxcomprange=\count357
+\c@mincompwidth=\count358
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -411,74 +407,74 @@ File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count360
-\c@savedafterword=\count361
-\c@annotator=\count362
-\c@savedannotator=\count363
-\c@author=\count364
-\c@savedauthor=\count365
-\c@bookauthor=\count366
-\c@savedbookauthor=\count367
-\c@commentator=\count368
-\c@savedcommentator=\count369
-\c@editor=\count370
-\c@savededitor=\count371
-\c@editora=\count372
-\c@savededitora=\count373
-\c@editorb=\count374
-\c@savededitorb=\count375
-\c@editorc=\count376
-\c@savededitorc=\count377
-\c@foreword=\count378
-\c@savedforeword=\count379
-\c@holder=\count380
-\c@savedholder=\count381
-\c@introduction=\count382
-\c@savedintroduction=\count383
-\c@namea=\count384
-\c@savednamea=\count385
-\c@nameb=\count386
-\c@savednameb=\count387
-\c@namec=\count388
-\c@savednamec=\count389
-\c@translator=\count390
-\c@savedtranslator=\count391
-\c@shortauthor=\count392
-\c@savedshortauthor=\count393
-\c@shorteditor=\count394
-\c@savedshorteditor=\count395
-\c@labelname=\count396
-\c@savedlabelname=\count397
-\c@institution=\count398
-\c@savedinstitution=\count399
-\c@lista=\count400
-\c@savedlista=\count401
-\c@listb=\count402
-\c@savedlistb=\count403
-\c@listc=\count404
-\c@savedlistc=\count405
-\c@listd=\count406
-\c@savedlistd=\count407
-\c@liste=\count408
-\c@savedliste=\count409
-\c@listf=\count410
-\c@savedlistf=\count411
-\c@location=\count412
-\c@savedlocation=\count413
-\c@organization=\count414
-\c@savedorganization=\count415
-\c@origlocation=\count416
-\c@savedoriglocation=\count417
-\c@origpublisher=\count418
-\c@savedorigpublisher=\count419
-\c@publisher=\count420
-\c@savedpublisher=\count421
-\c@language=\count422
-\c@savedlanguage=\count423
-\c@origlanguage=\count424
-\c@savedoriglanguage=\count425
-\c@pageref=\count426
-\c@savedpageref=\count427
+\c@afterword=\count359
+\c@savedafterword=\count360
+\c@annotator=\count361
+\c@savedannotator=\count362
+\c@author=\count363
+\c@savedauthor=\count364
+\c@bookauthor=\count365
+\c@savedbookauthor=\count366
+\c@commentator=\count367
+\c@savedcommentator=\count368
+\c@editor=\count369
+\c@savededitor=\count370
+\c@editora=\count371
+\c@savededitora=\count372
+\c@editorb=\count373
+\c@savededitorb=\count374
+\c@editorc=\count375
+\c@savededitorc=\count376
+\c@foreword=\count377
+\c@savedforeword=\count378
+\c@holder=\count379
+\c@savedholder=\count380
+\c@introduction=\count381
+\c@savedintroduction=\count382
+\c@namea=\count383
+\c@savednamea=\count384
+\c@nameb=\count385
+\c@savednameb=\count386
+\c@namec=\count387
+\c@savednamec=\count388
+\c@translator=\count389
+\c@savedtranslator=\count390
+\c@shortauthor=\count391
+\c@savedshortauthor=\count392
+\c@shorteditor=\count393
+\c@savedshorteditor=\count394
+\c@labelname=\count395
+\c@savedlabelname=\count396
+\c@institution=\count397
+\c@savedinstitution=\count398
+\c@lista=\count399
+\c@savedlista=\count400
+\c@listb=\count401
+\c@savedlistb=\count402
+\c@listc=\count403
+\c@savedlistc=\count404
+\c@listd=\count405
+\c@savedlistd=\count406
+\c@liste=\count407
+\c@savedliste=\count408
+\c@listf=\count409
+\c@savedlistf=\count410
+\c@location=\count411
+\c@savedlocation=\count412
+\c@organization=\count413
+\c@savedorganization=\count414
+\c@origlocation=\count415
+\c@savedoriglocation=\count416
+\c@origpublisher=\count417
+\c@savedorigpublisher=\count418
+\c@publisher=\count419
+\c@savedpublisher=\count420
+\c@language=\count421
+\c@savedlanguage=\count422
+\c@origlanguage=\count423
+\c@savedoriglanguage=\count424
+\c@pageref=\count425
+\c@savedpageref=\count426
 \shorthandwidth=\skip115
 \shortjournalwidth=\skip116
 \shortserieswidth=\skip117
@@ -502,19 +498,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count428
-\c@textcitetotal=\count429
-\c@textcitemaxnames=\count430
-\c@biburlbigbreakpenalty=\count431
-\c@biburlbreakpenalty=\count432
-\c@biburlnumpenalty=\count433
-\c@biburlucpenalty=\count434
-\c@biburllcpenalty=\count435
+\c@textcitecount=\count427
+\c@textcitetotal=\count428
+\c@textcitemaxnames=\count429
+\c@biburlbigbreakpenalty=\count430
+\c@biburlbreakpenalty=\count431
+\c@biburlnumpenalty=\count432
+\c@biburlucpenalty=\count433
+\c@biburllcpenalty=\count434
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count436
+\c@smartand=\count435
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -524,8 +520,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count437
-\c@bbx:relatedtotal=\count438
+\c@bbx:relatedcount=\count436
+\c@bbx:relatedtotal=\count437
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -554,7 +550,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2025-09-02 L3 programming layer (loader) 
  (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count439
+\l__color_backend_stack_int=\count438
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2025-09-02 L3 programming layer (loader) 
@@ -572,7 +568,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks30
 \XKV@tempa@toks=\toks31
 )
-\XKV@depth=\count440
+\XKV@depth=\count439
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (c:/texlive/2025/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
@@ -599,14 +595,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count441
+\inf@bad=\count440
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count442
-\leftroot@=\count443
+\uproot@=\count441
+\leftroot@=\count442
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count444
-\DOTSCASE@=\count445
+\classnum@=\count443
+\DOTSCASE@=\count444
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -619,20 +615,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen190
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count446
+\macc@depth=\count445
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count447
+\c@MaxMatrixCols=\count446
 \dotsspace@=\muskip22
-\c@parentequation=\count448
-\dspbrk@lvl=\count449
+\c@parentequation=\count447
+\dspbrk@lvl=\count448
 \tag@help=\toks35
-\row@=\count450
-\column@=\count451
-\maxfields@=\count452
+\row@=\count449
+\column@=\count450
+\maxfields@=\count451
 \andhelp@=\toks36
 \eqnshift@=\dimen191
 \alignsep@=\dimen192
@@ -652,40 +648,40 @@ Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
 File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@toks=\toks39
-\@dtl@tmpcount=\count453
+\@dtl@tmpcount=\count452
 \dtl@tmplength=\skip132
 \l__datatool_measure_box=\box66
-\dtl@sortresult=\count454
+\dtl@sortresult=\count453
  (c:/texlive/2025/texmf-dist/tex/latex/datatool/datatool-utf8.ldf
 File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 )
-\@dtl@datatype=\count455
-\l__datatool_tmpa_int=\count456
-\l__datatool_tmpb_int=\count457
-\l__datatool_tmpc_int=\count458
-\l__datatool_tmpd_int=\count459
-\l__datatool_count_int=\count460
-\l__datatool_tmp_datatype_int=\count461
+\@dtl@datatype=\count454
+\l__datatool_tmpa_int=\count455
+\l__datatool_tmpb_int=\count456
+\l__datatool_tmpc_int=\count457
+\l__datatool_tmpd_int=\count458
+\l__datatool_count_int=\count459
+\l__datatool_tmp_datatype_int=\count460
 \l__datatool_tmpa_dim=\dimen197
 \l__datatool_tmpb_dim=\dimen198
-\c_datatool_unknown_int=\count462
-\l__datatool_year_int=\count463
-\l__datatool_month_int=\count464
-\l__datatool_day_int=\count465
-\l__datatool_hour_int=\count466
-\l__datatool_minute_int=\count467
-\l__datatool_second_int=\count468
-\l__datatool_tzhour_int=\count469
-\l__datatool_tzminute_int=\count470
-\l__datatool_julian_int=\count471
-\l__datatool_local_julian_int=\count472
-\l__datatool_prefix_int=\count473
-\l__datatool_suffix_int=\count474
-\@dtl@foreach@level=\count475
-\dtl@codeA=\count476
-\dtl@codeB=\count477
+\c_datatool_unknown_int=\count461
+\l__datatool_year_int=\count462
+\l__datatool_month_int=\count463
+\l__datatool_day_int=\count464
+\l__datatool_hour_int=\count465
+\l__datatool_minute_int=\count466
+\l__datatool_second_int=\count467
+\l__datatool_tzhour_int=\count468
+\l__datatool_tzminute_int=\count469
+\l__datatool_julian_int=\count470
+\l__datatool_local_julian_int=\count471
+\l__datatool_prefix_int=\count472
+\l__datatool_suffix_int=\count473
+\@dtl@foreach@level=\count474
+\dtl@codeA=\count475
+\dtl@codeB=\count476
 )
-\gls@level=\count478
+\gls@level=\count477
 \@gls@tmpb=\toks40
 \gls@tmplen=\skip133
 \l__glossaries_tmpa_dim=\dimen199
@@ -707,17 +703,17 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \LTright=\skip136
 \LTpre=\skip137
 \LTpost=\skip138
-\LTchunksize=\count479
+\LTchunksize=\count478
 \LTcapwidth=\dimen257
 \LT@head=\box67
 \LT@firsthead=\box68
 \LT@foot=\box69
 \LT@lastfoot=\box70
 \LT@gbox=\box71
-\LT@cols=\count480
-\LT@rows=\count481
-\c@LT@tables=\count482
-\c@LT@chunks=\count483
+\LT@cols=\count479
+\LT@rows=\count480
+\c@LT@tables=\count481
+\c@LT@chunks=\count482
 \LT@p@ftn=\toks45
 )
 \glsdescwidth=\skip139
@@ -726,7 +722,7 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 Package: glossary-super 2025/08/11 v4.8 (NLCT)
  (c:/texlive/2025/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
-\c@tracingst=\count484
+\c@tracingst=\count483
 \ST@wd=\dimen258
 \ST@rightskip=\skip141
 \ST@leftskip=\skip142
@@ -743,7 +739,7 @@ Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \ST@pbox=\box72
 )) (c:/texlive/2025/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 Package: glossary-tree 2025/08/11 v4.8 (NLCT)
-\l__glossaries_tree_max_known_level_int=\count485
+\l__glossaries_tree_max_known_level_int=\count484
 \l__glossaries_tree_offset_dim=\dimen268
 \l__glossaries_tree_namewidth_dim=\dimen269
 \l__glossaries_tree_symbolwidth_dim=\dimen270
@@ -753,42 +749,45 @@ Package: glossary-tree 2025/08/11 v4.8 (NLCT)
 \l__glossaries_tree_symbolwidth_padding_dim=\dimen274
 \l__glossaries_tree_namesymbolwidth_dim=\dimen275
 \l__glossaries_tree_namesymbolwidth_padding_dim=\dimen276
-\l__glossaries_tree_level_int=\count486
+\l__glossaries_tree_level_int=\count485
 \glstreeindent=\skip144
 ))
+\c@subsubsubsection=\count486
+) (./content/setup.sty)
+Package hyperref Info: Option `colorlinks' set `true' on input line 21.
 \glswrite=\write4
 \glo@main@file=\write5
 \openout5 = `00_main.glo'.
 
-Package glossaries Info: Writing glossary file 00_main.glo on input line 23.
+Package glossaries Info: Writing glossary file 00_main.glo on input line 28.
 \glo@acronym@file=\write6
 \openout6 = `00_main.acn'.
 
-Package glossaries Info: Writing glossary file 00_main.acn on input line 23.
+Package glossaries Info: Writing glossary file 00_main.acn on input line 28.
  (./content/acronyms.tex) (./content/glossary.tex)
 \@quotelevel=\count487
 \@quotereset=\count488
  (build/00_main.aux)
 \openout1 = `00_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
  (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count489
@@ -816,7 +815,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-Package hyperref Info: Link coloring ON on input line 29.
+Package hyperref Info: Link coloring ON on input line 34.
  (build/00_main.out) (build/00_main.out)
 \@outlinefile=\write7
 \openout7 = `00_main.out'.
@@ -869,10 +868,10 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '00_main.bbl' found.
  (build/00_main.bbl)
-Package biblatex Info: Reference section=0 on input line 29.
-Package biblatex Info: Reference segment=0 on input line 29.
+Package biblatex Info: Reference section=0 on input line 34.
+Package biblatex Info: Reference segment=0 on input line 34.
  (./content/title.tex
-<pictures/02_circuit.png, id=20, 709.14937pt x 412.54124pt>
+<pictures/02_circuit.png, id=32, 709.14937pt x 412.54124pt>
 File: pictures/02_circuit.png Graphic file (type png)
 <use pictures/02_circuit.png>
 Package pdftex.def Info: pictures/02_circuit.png  used on input line 16.
@@ -884,7 +883,7 @@ Package pdftex.def Info: pictures/02_circuit.png  used on input line 16.
 \openout4 = `00_main.ist'.
 
 {c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pictures/02_circuit.png>]) (./content/validation.tex
-<pictures/HEI-LOGO.png, id=31, 356.0502pt x 121.4136pt>
+<pictures/HEI-LOGO.png, id=43, 356.0502pt x 121.4136pt>
 File: pictures/HEI-LOGO.png Graphic file (type png)
 <use pictures/HEI-LOGO.png>
 Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 6.
@@ -895,9 +894,9 @@ Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 6.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 \newpage
+l.39 \newpage
               [1 <./pictures/HEI-LOGO.png>] (./content/abstract.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 22--36
+Underfull \hbox (badness 10000) in paragraph at lines 14--52
 
  []
 
@@ -905,24 +904,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--36
 
 File: pictures/HEI-LOGO.png Graphic file (type png)
 <use pictures/HEI-LOGO.png>
-Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 36.
+Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 52.
 (pdftex.def)             Requested size: 100.12799pt x 34.14322pt.
-[1] (./content/TOC.tex (build/00_main.toc)
+[1] (build/00_main.toc)
 \tf@toc=\write8
 \openout8 = `00_main.toc'.
 
-)
+
 
 File: pictures/HEI-LOGO.png Graphic file (type png)
 <use pictures/HEI-LOGO.png>
-Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 38.
+Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 64.
 (pdftex.def)             Requested size: 100.12799pt x 34.14322pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.38 \newpage
-              [1] (./01_Intro.tex
+l.64 \clearpage
+                [1] (./01_Intro.tex
 File: pictures/02_circuit.png Graphic file (type png)
 <use pictures/02_circuit.png>
 Package pdftex.def Info: pictures/02_circuit.png  used on input line 7.
@@ -931,50 +930,16 @@ Package pdftex.def Info: pictures/02_circuit.png  used on input line 7.
 
 File: pictures/HEI-LOGO.png Graphic file (type png)
 <use pictures/HEI-LOGO.png>
-Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 41.
+Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 69.
 (pdftex.def)             Requested size: 100.12799pt x 34.14322pt.
 [2
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.41 \newpage
-             ]
-<pdfs/sintable.pdf, id=59, 597.55246pt x 845.07718pt>
-File: pdfs/sintable.pdf Graphic file (type pdf)
-<use pdfs/sintable.pdf>
-Package pdftex.def Info: pdfs/sintable.pdf  used on input line 57.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-<pdfs/sintable.pdf, id=61, page=1, 597.55246pt x 845.07718pt>
-File: pdfs/sintable.pdf Graphic file (type pdf)
-<use pdfs/sintable.pdf, page 1>
-Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 57.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: pdfs/sintable.pdf Graphic file (type pdf)
-<use pdfs/sintable.pdf, page 1>
-Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 57.
-(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
-File: pdfs/sintable.pdf Graphic file (type pdf)
-<use pdfs/sintable.pdf, page 1>
-Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 57.
-(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
-File: pdfs/sintable.pdf Graphic file (type pdf)
-<use pdfs/sintable.pdf, page 1>
-Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 57.
-(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
-Package hyperref Info: bookmark level for unknown attachment defaults to 0 on input line 57.
-
-
-File: pictures/HEI-LOGO.png Graphic file (type png)
-<use pictures/HEI-LOGO.png>
-Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 57.
-(pdftex.def)             Requested size: 100.12799pt x 34.14322pt.
-File: pdfs/sintable.pdf Graphic file (type pdf)
-<use pdfs/sintable.pdf, page 1>
-Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 57.
-(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
-[3
-
- <./pdfs/sintable.pdf>] (build/00_main.lof)
+l.69 \newpage
+             ] (build/00_main.gls) (build/00_main.acr) (build/00_main.lof)
 \tf@lof=\write9
 \openout9 = `00_main.lof'.
 
@@ -988,13 +953,84 @@ Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 57.
 
 
 
-Package glossaries Warning: No \printglossary or \printglossaries found. 
-(Remove \makeglossaries if you don't want any glossaries.) 
-This document will not have a glossary.
+File: pictures/HEI-LOGO.png Graphic file (type png)
+<use pictures/HEI-LOGO.png>
+Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 95.
+(pdftex.def)             Requested size: 100.12799pt x 34.14322pt.
+[3
+
+]
+<pdfs/sintable.pdf, id=93, 597.55246pt x 845.07718pt>
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf>
+Package pdftex.def Info: pdfs/sintable.pdf  used on input line 106.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+<pdfs/sintable.pdf, id=95, page=1, 597.55246pt x 845.07718pt>
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 106.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 106.
+(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 106.
+(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 106.
+(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
+Package hyperref Info: bookmark level for unknown attachment defaults to 0 on input line 106.
 
 
+File: pictures/HEI-LOGO.png Graphic file (type png)
+<use pictures/HEI-LOGO.png>
+Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 106.
+(pdftex.def)             Requested size: 100.12799pt x 34.14322pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 106.
+(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
+[4
 
-[4] 
+
+ <./pdfs/sintable.pdf>]
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf>
+Package pdftex.def Info: pdfs/sintable.pdf  used on input line 118.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 118.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 118.
+(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 118.
+(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 118.
+(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
+
+
+File: pictures/HEI-LOGO.png Graphic file (type png)
+<use pictures/HEI-LOGO.png>
+Package pdftex.def Info: pictures/HEI-LOGO.png  used on input line 118.
+(pdftex.def)             Requested size: 100.12799pt x 34.14322pt.
+File: pdfs/sintable.pdf Graphic file (type pdf)
+<use pdfs/sintable.pdf, page 1>
+Package pdftex.def Info: pdfs/sintable.pdf , page1 used on input line 118.
+(pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
+[5
+
+
+] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (build/00_main.aux)
  ***********
@@ -1002,24 +1038,24 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `00_main.out' has not changed.
-(rerunfilecheck)             Checksum: 3C2814769B48DBFF83C6B1E0BC9C11A1;529.
+(rerunfilecheck)             Checksum: EACA48C5A34860D38949986BC0ECED04;875.
 Package logreq Info: Writing requests to '00_main.run.xml'.
 \openout1 = `00_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26663 strings out of 467748
- 504062 string characters out of 5431138
- 1399027 words of memory out of 5000000
- 55027 multiletter control sequences out of 15000+600000
- 631051 words of font info for 52 fonts, out of 8000000 for 9000
+ 26927 strings out of 467748
+ 509400 string characters out of 5431138
+ 1401277 words of memory out of 5000000
+ 55277 multiletter control sequences out of 15000+600000
+ 631397 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,18n,93p,2486b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on build/00_main.pdf (7 pages, 199356 bytes).
+ 93i,18n,93p,2498b,1184s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on build/00_main.pdf (8 pages, 215409 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 150 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
