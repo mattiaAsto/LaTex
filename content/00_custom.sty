@@ -57,9 +57,14 @@
 \renewcommand\thesubsubsubsection{\thesubsubsection.\arabic{subsubsubsection}}
 \renewcommand\theparagraph{\thesubsubsubsection.\arabic{paragraph}} % optional; useful if paragraphs are to be numbered
 
+\newcounter{sectionForHeader}
 
 \newcommand{\sectiontitle}{}
-\newcommand{\newsection}[1]{\section{#1}\renewcommand{\sectiontitle}{#1}}
+\newcommand{\newsection}[1]{
+  \section{#1}
+  \setcounter{sectionForHeader}{\thesection}
+  \renewcommand{\sectiontitle}{\arabic{sectionForHeader} \space - #1}
+  }
 
 
 
