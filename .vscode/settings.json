@@ -48,8 +48,8 @@
   "emeraldwalk.runonsave": {
     "commands": [
       {
-        "match": "\\.tex$",
-        "cmd": "echo ciao"
+        "match": "\\.(tex|sty|bib)$",
+        "cmd": "start run_short.bat"
       }
     ]
   }

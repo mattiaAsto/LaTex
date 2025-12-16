@@ -8,9 +8,9 @@
 \usepackage{content/setup}
 \usepackage{hyperref}
 
-\definecolor{urlcolor}{RGB}{0, 0, 0}
+\definecolor{urlcolor}{RGB}{49, 138, 161}
 \definecolor{linkcolor}{RGB}{0, 0, 0}
-\definecolor{citecolor}{RGB}{41, 41, 61}
+\definecolor{citecolor}{RGB}{49, 138, 161}
 
 
 \hypersetup{
@@ -40,7 +40,7 @@
 
 \pagestyle{fancy}
 \pagenumbering{Roman}
-\fancyhead[L]{\vDescription \space - \vAbstractName}
+\fancyhead[L]{\vAbstractName}
 \fancyhead[R]{
     \raisebox{-0.4cm}[0pt][0pt]{
         \includegraphics[height=1.2cm]{pictures/HEI-LOGO.png}
@@ -54,7 +54,7 @@
 \pagenumbering{arabic}
 \setcounter{page}{1}
 
-\fancyhead[L]{\vDescription \space - \vSummaryName}
+\fancyhead[L]{\vSummaryName}
 \fancyfoot[R]{\vPage}
 \fancyfoot[L]{\vAuthor}
 \fancyfoot[C]{\vYear}
@@ -63,11 +63,12 @@
 \thispagestyle{fancy}
 \clearpage
 
-\fancyhead[L]{\vDescription \space - \sectiontitle}
+\fancyhead[L]{\thesection \space - \sectiontitle}
 
 \input{01_Intro.tex}
 \newpage
 
+\fancyhead[L]{\sectiontitle}
 \clearpage
 \renewcommand{\sectiontitle}{Bibliography}
 \phantomsection
@@ -105,6 +106,8 @@
     }
   ]{pdfs/sintable.pdf}
 \clearpage
+
+
 
 \renewcommand{\sectiontitle}{Excel full table 2}
 \includepdf[
