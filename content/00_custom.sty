@@ -62,6 +62,7 @@
 \newcommand{\sectiontitle}{}
 \newcommand{\newsection}[1]{
   \section{#1}
+  \label{sec:#1}
   \setcounter{sectionForHeader}{\thesection}
   \renewcommand{\sectiontitle}{\arabic{sectionForHeader} \space - #1}
   }
